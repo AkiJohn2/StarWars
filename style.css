@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+  font-family: "ITC Serif Gothic", Lato;
+}
+
+body {
+background: #000 url(//cssanimation.rocks/demo/starwars/images/bg.jpg);
+}
+h1{
+     font-size: 3.2rem;
+      	color: #ff6;
+}
+
+  div {   
+    outline: 2px solid rgb(255, 217, 1);
+    display: flex;
+    flex-flow: column wrap;
+    height: 250px;
+    
+  }
+   p {      
+      color: #ff6;     
+       font-size: 17px; 
+       line-height: 32px; 
+       margin: 0 0 2px;
+       padding: 5px;
+       text-align: center;       
+       text-transform: uppercase;
+  }
+      
+  a {
+    margin : 5px  15px;
+    color: #020505; background: #ffffff; text-decoration: none;
+     
+     
+  }
+  a:hover { color: #000000 }
+
+ a {
+  background-image: linear-gradient(135deg, #ac2200, #160307);
+  border-radius: 2px;
+  box-sizing: border-box;
+  color: #ffffff;
+  display: inline-block; 
+  font-weight: 500;
+  padding: 5px;
+  position: relative;
+  text-decoration: none;
+ 
+}
+
+.star-wars-logo{
+    width: 10em;
+    max-width:80%;
+    height: auto;
+    margin: 15px
+ 
+}
