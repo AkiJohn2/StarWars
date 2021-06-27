@@ -17,4 +17,4 @@ https://akijohn2.github.io/StarWars
 4. If you want to navigate to the main page, you can always click on StarWars Logo on the top left corner, and it will redirect you from any page you are on to the main Home page.
 5. On the main page, you will also have the option to click on films, this will redirect you to the film page, and it will have the same structure set up as in step 3. 
 
-Note: If you don't see anythings displayed, please wait couple more seconds for data to be load on the page, because sometimes fetching from Star Wars API takes time.
+Please note: If you don't see anything displayed on the page, please wait couple more seconds for data to be loaded, because sometimes fetching from Star Wars API takes time.
